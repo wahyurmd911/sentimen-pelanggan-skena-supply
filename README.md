@@ -2,9 +2,11 @@
 
 Dashboard interaktif untuk membaca ulasan pelanggan Skena Supply, toko outfit skena. Data berisi 1.000 transaksi dari 10 produk selama Oktober 2025 sampai September 2026.
 
+**Buka dashboard: https://wahyurmd911.github.io/sentimen-pelanggan-skena-supply/**
+
 ## Cara membuka
 
-Buka `index.html` di browser. Tidak perlu server atau instalasi apa pun.
+Dashboard bisa langsung dibuka lewat link di atas. Untuk menjalankannya dari komputer sendiri, unduh repo ini lalu buka `index.html` di browser. Tidak perlu server atau instalasi apa pun.
 
 Tersedia juga `dashboard-customer-feedback.html`, yaitu versi satu file dengan CSS, JavaScript, dan data yang sudah digabung, supaya mudah dikirim atau dikumpulkan.
 
